@@ -1,9 +1,10 @@
 # ostep
 
-[Operating Systems: Three Easy Pieces (English)][1] 
-[Operating Systems: Three Easy Pieces (Chinese)][2]
+[Operating Systems: Three Easy Pieces (English)][1]  
+[Operating Systems: Three Easy Pieces (Chinese)][2]  
+https://github.com/remzi-arpacidusseau/ostep-translations
 
-English: v0.92 
+English: v0.92  
 Chinese: v0.91
 
 >Operating Systems: Three Easy Pieces  
